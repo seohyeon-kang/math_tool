@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # 기본 계산기
-def add(a, b):
-  return a+b
-def subtract(a, b):
+def add(a, b):
+  return a+b
+
+def subtract(a, b):
   return a-b
+
 def multiply(a, b):
   return a*b
-def devide(a, b):
+
+def devide_premium(a, b):
   return a/b	
